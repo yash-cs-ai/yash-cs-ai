@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey, I am Yashaswi
+
+Curently a student pursuing a degree in Computer Science
 
 <!--
 **yash-cs-ai/yash-cs-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
